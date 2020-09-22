@@ -13,8 +13,8 @@ def pods
   pod 'Texture/Core', :git => 'https://github.com/VFeed/Texture.git', :commit => '138c13a5be52e797f9f7ccbeee73ec1a2ba8df16'
 
   # Reactive
-  #pod 'ReactiveSwifty', '~> 1.1'
-  pod 'ReactiveSwifty', :path => '../../Frameworks/ReactiveSwifty'
+  pod 'ReactiveSwifty', '~> 1.1'
+  #pod 'ReactiveSwifty', :path => '../../Frameworks/ReactiveSwifty'
 
   # Linting
   pod 'SwiftLint', '~> 0.28'
